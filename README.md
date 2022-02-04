@@ -1,3 +1,1 @@
-I tried...
-
-Feel free to make your own pull request for custom tips!
+(Note: This was rejected for being too useless compared to the built in VM)
